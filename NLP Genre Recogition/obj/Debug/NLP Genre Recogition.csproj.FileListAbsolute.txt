@@ -1,0 +1,20 @@
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\bin\Debug\NLP Genre Recogition.exe.config
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\bin\Debug\NLP Genre Recogition.exe
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\bin\Debug\NLP Genre Recogition.pdb
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\obj\Debug\NLP_Genre_Recogition.mainForm.resources
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\obj\Debug\NLP_Genre_Recogition.Properties.Resources.resources
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\obj\Debug\NLP Genre Recogition.csproj.GenerateResource.Cache
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\obj\Debug\NLP Genre Recogition.exe.licenses
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\obj\Debug\NLP Genre Recogition.exe
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\obj\Debug\NLP Genre Recogition.pdb
+C:\Users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\bin\Debug\system.windows.forms.ribbon35.dll
+C:\Users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\bin\Debug\x64\liblept168.dll
+C:\Users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\bin\Debug\x64\libtesseract302.dll
+C:\Users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\bin\Debug\x86\liblept168.dll
+C:\Users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\bin\Debug\x86\libtesseract302.dll
+C:\Users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\bin\Debug\Tesseract.dll
+C:\Users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\bin\Debug\Tesseract.xml
+C:\Users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Genre Recogition\NLP Genre Recogition\obj\Debug\NLP_Genre_Recogition.ReportForm.resources
+C:\Users\yeghiakoronian\Desktop\NLP\NLP Genre Recogition\NLP Genre Recogition\bin\Debug\NLP Genre Recogition.exe.config
+C:\Users\yeghiakoronian\Desktop\NLP\NLP Genre Recogition\NLP Genre Recogition\obj\Debug\NLP Genre Recogition.exe
+C:\Users\yeghiakoronian\Desktop\NLP\NLP Genre Recogition\NLP Genre Recogition\obj\Debug\NLP Genre Recogition.pdb
